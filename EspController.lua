@@ -1,6 +1,6 @@
 -- OxygenU ESP Controller
-local ESP = loadstring(game:HttpGet("file:///c:/Users/Ryzen Gaming/Desktop/oxygenu/OxygenU/Scripts/EspModule.lua"))()
-loadstring(game:HttpGet("file:///c:/Users/Ryzen Gaming/Desktop/oxygenu/OxygenU/Scripts/EspModule2.lua"))()
+local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/skreyy/mouseware/refs/heads/main/EspModule.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skreyy/mouseware/refs/heads/main/EspModule2.lua"))()
 
 -- Initialize the ESP
 ESP:Init()
