@@ -1,5 +1,5 @@
 -- OxygenU ESP Module - Part 2 (Update functions)
-local ESP = loadstring(game:HttpGet("file:///c:/Users/Ryzen Gaming/Desktop/oxygenu/OxygenU/Scripts/EspModule.lua"))()
+local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/skreyy/mouseware/refs/heads/main/EspModule.lua"))()
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
